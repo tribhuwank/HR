@@ -1,0 +1,14 @@
+E:\Applicatons\CloudHR\CloudHR\bin\Release\netcoreapp2.2\CloudHR.deps.json
+E:\Applicatons\CloudHR\CloudHR\bin\Release\netcoreapp2.2\CloudHR.runtimeconfig.json
+E:\Applicatons\CloudHR\CloudHR\bin\Release\netcoreapp2.2\CloudHR.runtimeconfig.dev.json
+E:\Applicatons\CloudHR\CloudHR\bin\Release\netcoreapp2.2\CloudHR.dll
+E:\Applicatons\CloudHR\CloudHR\bin\Release\netcoreapp2.2\CloudHR.pdb
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.csprojAssemblyReference.cache
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.csproj.CoreCompileInputs.cache
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.RazorAssemblyInfo.cache
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.RazorAssemblyInfo.cs
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.AssemblyInfoInputs.cache
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.AssemblyInfo.cs
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.RazorTargetAssemblyInfo.cache
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.dll
+E:\Applicatons\CloudHR\CloudHR\obj\Release\netcoreapp2.2\CloudHR.pdb
